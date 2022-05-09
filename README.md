@@ -1,2 +1,2 @@
 # Card-Game-using-React
-# References: https://www.youtube.com/watch?v=ZCKohZwGZMw , https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0duRUJmYWRrY1NxOGd6UnRWNTN4RFJ6VklyUXxBQ3Jtc0tsaER3UlhJU1ZXcEw2NHlULTdCUHhVRGh3NG80RjlTYXk1TWFOZzd3dVhFemZUOVpuZ0hLOWg5RmViWFVYZ19kSEhoYl9Nc2hBX2JQUi1ENzJiTGQ3RDFlbzhEcEJPX0VmdGFDbjJJWmJLLUZXVFNWdw&q=https%3A%2F%2Fthenetninja.co.uk%2Fudemy%2Freact-and-firebase&v=ZCKohZwGZMw
+# References: https://www.youtube.com/watch?v=ZCKohZwGZMw 
